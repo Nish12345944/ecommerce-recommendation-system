@@ -6,3 +6,7 @@ numpy==1.24.3
 Werkzeug==2.3.7
 gunicorn==21.2.0
 python-dotenv==1.0.0
+rapidFuzz==3.5.2
+nltk==3.8.1
+requests==2.31.0
+Pillow==10.0.1
